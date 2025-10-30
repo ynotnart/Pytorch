@@ -3,7 +3,7 @@
 # Housing Price predicitons using Pytorch
 # Created: 10/29/2025    
 # Source: ChatGPT
-# 
+# by Tony Tran
 
 import torch
 import torch.nn as nn
